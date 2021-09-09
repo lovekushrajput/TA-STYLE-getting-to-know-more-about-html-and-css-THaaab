@@ -1,0 +1,44 @@
+
+#read{
+    background-color: rgb(52,113,121);}
+
+p{
+    color: white;
+}
+.footer{
+    text-align: center;
+    color: brown;
+}    
+footer{
+    background-color: rgb(60,111,182);
+}
+.header{
+    text-align: center;
+}
+header{
+    color: rgb(52,113,121);
+    background-color: white;
+}
+aside{
+    color: cornsilk;
+}
+.heading1{
+    background-color: rgb(118,65,56);
+}
+.heading2{
+    background-color: dimgray;
+}
+.heading3{
+    background-color: lightsteelblue;
+}
+.header1{
+    color: gray;
+    background-color: rgb(197,137,95);
+}
+.header2{
+    color:maroon;
+    background-color: rgb(242,238,167);
+}
+.header3{
+    background-color: rgb(252,118,125);
+}
